@@ -1,2 +1,6 @@
 Archivo de prueba
+<<<<<<< HEAD
 cambio realizado en local
+=======
+Cambio realizado en GitHub
+>>>>>>> 9386a01db7a8445fbb8c7497d0805b26694a1532
